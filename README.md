@@ -9,6 +9,6 @@
 - User is able to delete a city for the weather . 
 
 
-#### Start with those 4 citiyes : Riyadh , Abha, Jeddadh, Dammam
+#### Start with those 4 citiyes : Riyadh , Abha, Jedda, Dammam
 
 #### Use .gitignore to exclude the "venv" folder . 
